@@ -1,4 +1,6 @@
-# Trivedi Research Group
+---
+title: Trivedi Research Group
+---
 
 ## Group
 - [Homepage](http://trivediresearch.org.ohio-state.edu)
