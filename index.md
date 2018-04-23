@@ -1,8 +1,11 @@
+# Trivedi Research Group
+
 ## Group
 - [Homepage](http://trivediresearch.org.ohio-state.edu)
 - [GitHub Page](https://github.com/TrivediGroup)
 
 ## GitHub Pages
+
 ### Projects
 - [HartreeFockBogoliubov.jl](https://github.com/TrivediGroup/HartreeFockBogoliubov.jl)
 - [KaneMeleBulk](https://github.com/TrivediGroup/KaneMeleBulk)
